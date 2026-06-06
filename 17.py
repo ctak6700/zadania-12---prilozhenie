@@ -114,7 +114,7 @@ print("\n11.2г")
 my_ice_cream_stand.add_specific_type("на палочке", "Фруктовый лед")
 my_ice_cream_stand.add_specific_type("мягкое", "Сливочное")
 my_ice_cream_stand.add_specific_type("мягкое", "Шоколадное")
-my_ice_cream_stand.add_specific_type("в стаканчике", "Пломбир")  # Добавляем новый тип на лету
+my_ice_cream_stand.add_specific_type("в стаканчике", "Пломбир") 
 my_ice_cream_stand.show_specific_type("мягкое")
 my_ice_cream_stand.show_specific_type("на палочке")
 my_ice_cream_stand.show_specific_type("в стаканчике")
